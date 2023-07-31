@@ -4,3 +4,5 @@ git rm --cached
 git restore commad.txt
   git clone
 git remote -v
+git pull origin main
+git push origin main
